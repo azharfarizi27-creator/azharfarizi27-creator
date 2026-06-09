@@ -19,16 +19,16 @@ Currently learning and building projects using:
 
 ## Featured Projects
 
-### 🏪 Aposim POS & Inventory System
+###  Aposim POS & Inventory System
 POS and Inventory Management System built using C#, WinForms, and SQL Server.
 
-### 📚 Quiz Platform
+###  Quiz Platform
 Interactive quiz application for SD, SMP, and SMA students using HTML, CSS, JavaScript, and REST API.
 
-### 🔥 SD-SMA Question API
+###  SD-SMA Question API
 REST API containing categorized educational questions with difficulty levels.
 
-### 🏍️ Motorcycle Wash Queue System
+###  Motorcycle Wash Queue System
 Queue management application built with React and Tailwind CSS.
 
 ---
