@@ -1,27 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2563eb,50:3b82f6,100:06b6d4&text=Azhar%20Farizi&fontColor=ffffff&fontSize=60&fontAlignY=38&animation=fadeIn" width="100%" />
 
-  <h1>Hi there, I'm Azhar Farizi 👋</h1>
-  
-  <p align="center">
-    <strong>Junior .NET Developer • Backend Developer • Full Stack Enthusiast</strong>
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2563eb,50:3b82f6,100:06b6d4&text=Azhar%20Farizi&fontColor=ffffff&fontSize=60&fontAlignY=38&animation=fadeIn" width="100%" />
 
-  <p align="center">
-    <a href="mailto:azharfarizi27@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://github.com/azharfarizi27-creator">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Location-Bandung%2C%20ID-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
-    </a>
-  </p>
+# Hi there, I'm Azhar Farizi 👋
 
-  <a href="https://github.com/azharfarizi27-creator">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Junior+.NET+Developer;Backend+%26+REST+API+Architect;C%23+%7C+ASP.NET+Core+%7C+EF+Core;SQL+Server+%7C+React.js+%7C+Tailwind;Building+Scalable+Applications" />
-  </a>
+**Junior .NET Developer • Backend Developer • Full Stack Enthusiast**
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azharfarizi27@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azharfarizi27-creator)
+[![Location](https://img.shields.io/badge/Location-Bandung%2C%20ID-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Junior+.NET+Developer;Backend+%26+REST+API+Architect;C%23+%7C+ASP.NET+Core+%7C+EF+Core;SQL+Server+%7C+React.js+%7C+Tailwind;Building+Scalable+Applications)](https://github.com/azharfarizi27-creator)
+
 </div>
 
 <br />
@@ -34,7 +24,6 @@
   <tr>
     <td width="60%" valign="top">
       <p>I'm a <b>D3 Informatics Management</b> student passionate about building robust backend systems, RESTful APIs, and modern full-stack web applications using the <b>.NET Ecosystem</b>.</p>
-      
       <p>🎯 <b>Career Focus:</b> Junior .NET Developer | Backend Developer | Full Stack Developer</p>
       <p>🚀 <b>Current Focus:</b> Clean Architecture, REST API Design, microservices, and modern frontend integration.</p>
       <p>📍 <b>Based in:</b> Bandung, Indonesia</p>
@@ -57,31 +46,28 @@
 
 <div align="center">
 
-  ### Languages & Backend
-  <p>
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-    <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  </p>
+**Languages & Backend**
 
-  ### Frontend & Styling
-  <p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </p>
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-  ### Database & Tools
-  <p>
-    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </p>
+**Frontend & Styling**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Database & Tools**
+
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -154,43 +140,33 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azharfarizi27-creator&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azharfarizi27-creator&layout=compact&theme=tokyonight&hide_border=true&card_width=320" />
-      </td>
-    </tr>
-  </table>
 
-  <br />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=azharfarizi27-creator&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=azharfarizi27-creator&layout=compact&theme=tokyonight&hide_border=true&card_width=320" />
 
-  <img src="https://streak-stats.demolab.com?user=azharfarizi27-creator&theme=tokyonight&hide_border=true" width="90%" />
-  
-  <br /><br />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azharfarizi27-creator&theme=tokyo-night&hide_border=true" width="95%" />
+<br /><br />
+
+<img src="https://streak-stats.demolab.com?user=azharfarizi27-creator&theme=tokyonight&hide_border=true" width="90%" />
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=azharfarizi27-creator&theme=tokyo-night&hide_border=true" width="95%" />
+
 </div>
 
 ---
 
 <div align="center">
-  <h3>🤝 Let's Connect & Collaborate!</h3>
-  
-  <p>
-    <a href="mailto:azharfarizi27@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://github.com/azharfarizi27-creator">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
 
-  <p><i>"Continuous learning and building clean, efficient code every day."</i></p>
+### 🤝 Let's Connect & Collaborate!
 
-  <br />
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azharfarizi27@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azharfarizi27-creator)
 
-  <img src="https://komarev.com/ghpvc/?username=azharfarizi27-creator&label=Profile%20Views&color=2563eb&style=flat-square" />
+*"Continuous learning and building clean, efficient code every day."*
+
+<br />
+
+![Profile Views](https://komarev.com/ghpvc/?username=azharfarizi27-creator&label=Profile%20Views&color=2563eb&style=flat-square)
+
 </div>
