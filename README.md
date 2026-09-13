@@ -19,34 +19,6 @@
 
 ---
 
-## Developer Profile (`Developer.cs`)
-
-```csharp
-namespace AzharFarizi.Profile
-{
-    public class BackendEngineer
-    {
-        public string Name => "Azhar Farizi";
-        public string Location => "Bandung, Indonesia";
-        public string Education => "D3 Informatics Management, PASIM (GPA: 3.69/4.00)";
-        public string Scholarship => "Pemberdayaan Umat Berkelanjutan (PUB) Scholar";
-        public string[] PrimaryRoles => new[] { "Junior .NET Developer", "Backend Developer", "Fullstack Developer" };
-
-        public Dictionary<string, string[]> TechCompetencies => new()
-        {
-            ["Backend"]       = new[] { "C#", ".NET 8/9", "ASP.NET Core", "ASP.NET Web API", "EF Core 9" },
-            ["Frontend"]      = new[] { "React 18/19", "Vite", "Tailwind CSS", "JavaScript (ES6+)", "Recharts" },
-            ["Database"]      = new[] { "PostgreSQL", "Microsoft SQL Server", "MySQL" },
-            ["Architectures"] = new[] { "Clean Architecture", "Repository-Service Pattern", "JWT Auth", "RBAC" }
-        };
-
-        public bool IsAvailableForHire => true;
-    }
-}
-```
-
----
-
 ## About Me
 
 <table border="0">
@@ -107,25 +79,6 @@ namespace AzharFarizi.Profile
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
 </div>
-
----
-
-## Architecture & Engineering Standards
-
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│                        CLEAN ARCHITECTURE CORE                         │
-├───────────────────┬────────────────────────────────────────────────────┤
-│ 1. API / UI Layer │ RESTful Controllers, JWT Bearer Auth, Swagger Docs │
-│ 2. Core / Domain  │ Entities, Value Objects, Domain Exceptions         │
-│ 3. App / Services │ DTOs, Business Logic, FluentValidation, Mappers   │
-│ 4. Infrastructure │ EF Core 9 DbContext, Migrations, Repositories      │
-└───────────────────┴────────────────────────────────────────────────────┘
-```
-
-- **Authentication & Security:** JWT Token Authentication, Refresh Tokens, Password Hashing, RBAC (Role-Based Access Control).
-- **Design Patterns:** Repository & Unit of Work Pattern, Dependency Injection (DI), Middleware Pipeline, DTO Pattern.
-- **Database Optimization:** Code-First Migrations with EF Core 9, Indexing, Complex Relationships, Multi-database compatibility (PostgreSQL / SQL Server / MySQL).
 
 ---
 
